@@ -20,10 +20,10 @@ hu:
      - name: Home
        url: /#top
        weight: 10
-     - name: Features
-       url: /#features
+     - name: Tanuságtételek
+       url: /#testimonies
        weight: 20
-     - name: Meetings
+     - name: Csoportok
        url: /#csoportok
        weight: 30
      - name: Információk

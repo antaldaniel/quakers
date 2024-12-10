@@ -61,27 +61,26 @@ sections:
   - block: features
     id: features
     content:
-      title: Features
+      title: Testimonies
       text: Build your site with blocks 🧱
       items:
-        - name: Optimized SEO
+        - name: Equality
           icon: magnifying-glass
-          description: Automatic sitemaps, RSS feeds, and rich metadata take the pain out of SEO and syndication.
-        - name: Fast
+          description: treating everyone, everywhere, as equally precious to God; recognizing that everyone has gifts to share.
           icon: bolt
-          description: Super fast page load with Tailwind CSS and super fast site building with Hugo.
-        - name: Easy
+          description: seeking justice and healing for all people; taking away the causes of war in the ways we live.
+        - name: Integrity
           icon: sparkles
-          description: One-click deployment to GitHub Pages. Have your new website live within 5 minutes!
-        - name: No-Code
+          description: living as whole people who act on what we believe, tell the truth and do what we say we will do.
+        - name: Simplicity
           icon: code-bracket
-          description: Edit and design your site just using rich text (Markdown) and configurable YAML parameters.
-        - name: Highly Rated
+          description: focusing on what is truly important and letting other things fall away.
+        - name: Community
           icon: star
-          description: Rated 5-stars by the community.
-        - name: Swappable Blocks
+          description: supporting one another in our faith journeys and in times of joy and sorrow; sharing with and caring for each other.
+        - name: Care for the earth
           icon: rectangle-group
-          description: Build your pages with blocks - no coding required!
+          description: valuing and respecting all of God’s creation; using only our fair share of the earth’s resources; working for policies that protect the planet.
   - block: cta-image-paragraph
     id: groups
     content:

@@ -59,7 +59,7 @@ sections:
   - block: features
     id: features
     content:
-      title: Features
+      title: Tanuságtételek
       text: Build your site with blocks 🧱
       items:
         - name: Optimized SEO

@@ -11,10 +11,10 @@ appearance:
 # SEO
 marketing:
   seo:
-    site_type: Person
+    site_type: Group
     local_business_type: ''
-    org_name: ''
-    description: 'A highly-customizable Hugo landing page theme powered by Hugo Blox website builder.'
+    org_name: 'Budapest Quaker Worship Group'
+    description: 'Quakers in Hungary associated with the Religious Society of Friends'
     twitter: 'GetResearchDev'
   analytics:
     google_analytics: ''
@@ -47,7 +47,7 @@ header:
 # Site footer
 footer:
   copyright:
-    notice: '© {year} My Company'
+    notice: '© {year} Budapest Quaker Worship Group'
 
 # Localization
 locale:
