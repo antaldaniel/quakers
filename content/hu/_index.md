@@ -83,7 +83,7 @@ sections:
           icon: rectangle-group
           description: Build your pages with blocks - no coding required!
   - block: cta-image-paragraph
-    id: solutions
+    id: csoportok
     content:
       items:
         - title: Build your future-proof website

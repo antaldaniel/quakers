@@ -5,18 +5,30 @@
 # Default language
 en:
   languageCode: en-us
-  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
-  #contentDir: content/en
+  contentDir: content/en
+  title: Quakers in Hungary
 
 # Uncomment the lines below to configure your website in a second language.
-#zh:
-#  languageCode: zh-Hans
-#  contentDir: content/zh
-#  title: Chinese website title...
-#  params:
-#    description: Site description in Chinese...
-#  menu:
-#    main:
-#      - name: 传
-#        url: '#about'
-#        weight: 1
+hu:
+  languageCode: hu
+  contentDir: content/hu
+  title: Kvékerek Magyarországon
+  params:
+    description: Kvékerek Magyarországon
+  menu:
+    main:
+     - name: Home
+       url: /#top
+       weight: 10
+     - name: Features
+       url: /#features
+       weight: 20
+     - name: Meetings
+       url: /#solutions
+       weight: 30
+     - name: Resources
+       weight: 40
+       hasChildren: true
+     - parent: Resources
+       name: Blog
+       url: blog/
