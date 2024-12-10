@@ -10,7 +10,7 @@ design:
 sections:
   - block: hero
     content:
-      title: Build Your Landing Pages with Hugo Blox
+      title: Meet Quakers in Hungary
       text: 🧱 EASY. FREE (OPEN SOURCE). NO-CODE  🧱
       primary_action:
         text: Get Started
@@ -40,18 +40,18 @@ sections:
   - block: stats
     content:
       items:
-        - statistic: "1M+"
+        - statistic: "370+"
           description: |
-            Websites built  
-            with Hugo Blox
-        - statistic: "10k+"
+            year of history
+            globally
+        - statistic: "1993"
           description: |
-            GitHub stars  
-            since 2016
-        - statistic: "3k+"
+            inception of   
+            Hungarian organisation
+        - statistic: "400k+"
           description: |
-            Discord community  
-            for support
+            Friends all 
+            over the world
     design:
       # Section background color (CSS class)
       css_class: "bg-gray-100 dark:bg-gray-900"
@@ -96,20 +96,20 @@ sections:
           # Upload image to `assets/media/` and reference the filename here
           image: build-website.png
           button:
-            text: Get Started
-            url: https://hugoblox.com/templates/
-        - title: Large Community
-          text: Join our large community on Discord - ask questions and get live responses
+            text: Budapest Quaker Worship Group
+            url: https://budapestquaker.wixsite.com/budapestquaker
+        - title: Among Friends
+          text: Join our large community on Facebook
           feature_icon: bolt
           features:
-            - "Dedicated support channel"
+            - "Central European Facebook Group"
             - "3,000+ users on Discord"
             - "Share your site and get feedback"
           # Upload image to `assets/media/` and reference the filename here
           image: coffee.jpg
           button:
-            text: Join Discord
-            url: https://discord.gg/z8wNYzb
+            text: Quakers in Central Europe 
+            url: https://www.facebook.com/Quakers-in-Central-Europe-192044154266109
     design:
       # Section background color (CSS class)
       css_class: "bg-gray-100 dark:bg-gray-900"

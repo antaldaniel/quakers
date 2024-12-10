@@ -12,9 +12,12 @@ main:
   - name: Meetings
     url: /#solutions
     weight: 30
-  - name: Resources
+  - name: Többet
     weight: 40
     hasChildren: true
   - parent: Resources
     name: Blog
     url: blog/
+  - parent: Resources
+    name: Reading
+    url: reader/

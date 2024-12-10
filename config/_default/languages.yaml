@@ -24,11 +24,14 @@ hu:
        url: /#features
        weight: 20
      - name: Meetings
-       url: /#solutions
+       url: /#csoportok
        weight: 30
-     - name: Resources
+     - name: Információk
        weight: 40
        hasChildren: true
-     - parent: Resources
+     - parent: Információk
        name: Blog
        url: blog/
+     - parent: Információk
+       name: Olvasmányok
+       url: reader/
